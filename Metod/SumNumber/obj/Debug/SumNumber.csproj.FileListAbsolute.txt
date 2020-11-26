@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\bin\Debug\SumNumber.exe.config
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\bin\Debug\SumNumber.exe
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\bin\Debug\SumNumber.pdb
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\obj\Debug\SumNumber.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\obj\Debug\SumNumber.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\obj\Debug\SumNumber.exe
+C:\Users\Samylovskaya\Desktop\C#\Metod\SumNumber\obj\Debug\SumNumber.pdb

@@ -1,0 +1,13 @@
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.exe
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.deps.json
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.runtimeconfig.json
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.runtimeconfig.dev.json
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.dll
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\bin\Debug\netcoreapp3.1\Complex.pdb
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.AssemblyInfoInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.AssemblyInfo.cs
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.dll
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.pdb
+C:\Users\Samylovskaya\Desktop\C#\Metod\Metod\obj\Debug\netcoreapp3.1\Complex.genruntimeconfig.cache
